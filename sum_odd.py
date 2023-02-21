@@ -4,7 +4,7 @@
 #Create a variable "sum_odd" and assign it 0.
 
 #Find the sum of the odd digits in the variable "var_int".
-var_int=7288
+var_int=7293
 sum_even=0
 a1=var_int%10
 a2=var_int%100//10
